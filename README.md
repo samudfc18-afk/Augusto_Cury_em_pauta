@@ -1,13 +1,18 @@
 # Augusto_Cury_em_pauta
 Nesse caderno: "Augusto Cury em pauta." busco sintetizar as ideias do psiquiatra, entender suas teorias e avaliar o impacto de sua visão na sociedade atual. Tenho como objetivo entender suas técnicas  de gestão da emoção e como elas podem contribuir para a sociedade
 links: https://en.wikipedia.org/wiki/Augusto_Cury https://editora.editoraomnisscientia.com.br/artigoPDF/24226045100.pdf https://augustocury.com.br/wp-content/uploads/2023/04/E-BOOK-O-Mapa-da-Mente.pdf https://pt.slideshare.net/slideshow/gesto-da-emoo-augusto-cury-verso-1pdf/252377489 https://amenteemaravilhosa.com.br/inteligencia-multifocal/
+
 Prompt: Aja como um pesquisador assíduo das teorias do doutor augusto cury, em tom formal voce deve explicar como as ideias e teorias do doutor podem contribuir para a sociedade. Num mundo onde o número de pessoas com transtornos mentais, ansiedade e estresse está cada vez maior. No máximo 200 palavras. O texto será escrito para público aberto em formato de texto. Pense "passo a passo" antes de responder.
-Resposta: Como primeiro passo analítico, compreende-se que a sociedade contemporânea enfrenta uma epidemia de transtornos mentais. O excesso de estímulos e cobranças resulta na Síndrome do Pensamento Acelerado (SPA), gerando ansiedade e esgotamento.
+
+Resposta:
+Como primeiro passo analítico, compreende-se que a sociedade contemporânea enfrenta uma epidemia de transtornos mentais. O excesso de estímulos e cobranças resulta na Síndrome do Pensamento Acelerado (SPA), gerando ansiedade e esgotamento.
 No segundo passo, avaliamos a solução teórica. A Teoria da Inteligência Multifocal, desenvolvida pelo Dr. Augusto Cury, investiga o funcionamento da mente e a construção dos pensamentos para reverter esse adoecimento psíquico.
 Avançando para o terceiro passo, a aplicação prática revela-se em ferramentas terapêuticas e preventivas, como a "Gestão da Emoção" e a técnica DCD (Duvidar, Criticar e Determinar). Esses métodos ensinam o público a não gastar energia mental de forma desnecessária e a questionar pensamentos sabotadores ou antecipatórios, impedindo que gerem perspectivas destrutivas.
 Como passo final, constata-se a imensa contribuição social da obra: as teorias do doutor capacitam os indivíduos a deixarem de ser vítimas de seus conflitos para se tornarem "autores da própria história". A adoção em larga escala dessas práticas promove resiliência, autoconhecimento e consciência crítica, ajudando a transformar uma população ansiosa em uma sociedade mais equilibrada, construtiva e emocionalmente saudável
 obs: para criar esse prompt me baseei em tópicos de como criar um prompt profissional ensinado no pré MBA de IA pelasa EXAME.
+
 Resumo estruturado do assunto:
+
 1. Visão Geral do Autor Augusto Cury é um psiquiatra, pesquisador e escritor brasileiro, amplamente conhecido por seus estudos sobre a dinâmica das emoções e a construção dos pensamentos. Sendo um dos autores mais lidos do Brasil, com mais de 30 milhões de livros vendidos internacionalmente, suas teorias buscam capacitar os indivíduos a deixarem de ser vítimas de seus conflitos para se tornarem "autores da própria história". 
 2. Teoria da Inteligência Multifocal (TIM) É a estrutura central de seu pensamento, desenvolvida para explicar os fenômenos inconscientes que operam na mente humana. A teoria destaca os seguintes mecanismos:
 Janelas da Memória: Arquivos onde as experiências são armazenadas. Dividem-se em Neutras (dados cotidianos sem emoção), Light (iluminam a razão, gerando prazer e serenidade) e Killer (traumáticas e angustiantes, que bloqueiam a capacidade de resposta inteligente). Registro Automático da Memória (RAM): Processo involuntário que grava todas as experiências no cérebro, dando privilégio e maior intensidade àquelas que possuem forte carga emocional, seja positiva ou negativa. 
@@ -33,6 +38,8 @@ Aqui está um glossário estruturado com os principais conceitos desenvolvidos p
 *   **Síndrome Predador-Presa:** Fenômeno que ocorre quando a âncora da memória se fixa em uma "janela killer", intensificando a tensão e disparando reações irracionais de "lutar ou fugir", resultando muitas vezes em descontrole emocional.
 *   **Técnica DCD (Duvidar, Criticar e Determinar):** É uma intervenção terapêutica utilizada para resgatar a liderança do indivíduo (o Eu). Envolve **Duvidar** de falsas crenças e pensamentos sabotadores; **Criticar** pensamentos perturbadores e a sua lógica; e **Determinar** mentalmente ações, atitudes construtivas e segurança emocional.
 *   **Teoria da Inteligência Multifocal (TIM):** É a estrutura central desenvolvida pelo psiquiatra, baseada na análise e estudo dos fenômenos inconscientes que constroem os pensamentos, a dinâmica das emoções e a formação da personalidade ao longo da vida.
-Prompts Reutilizáveis: O que são Janelas Killer e como elas nos afetam?
+*   
+Prompts Reutilizáveis:
+ O que são Janelas Killer e como elas nos afetam?
 Como funciona o Registro Automático da Memória (RAM)?
 Quais são os principais sintomas da Síndrome do Pensamento Acelerado?
